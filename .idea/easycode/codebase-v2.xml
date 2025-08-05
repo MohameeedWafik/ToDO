@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/test/java/com/qacart/todo/base/BasePage.java;/home/wafik/Testing/ToDoApp/ToDo/src/test/java/com/qacart/todo/base/BaseTest.java;/home/wafik/Testing/ToDoApp/ToDo/src/test/java/com/qacart/todo/Factory/DriverFactory.java;/home/wafik/Testing/ToDoApp/ToDo/src/test/java/com/qacart/todo/pages/LoginPage.java;/home/wafik/Testing/ToDoApp/ToDo/src/test/java/com/qacart/todo/pages/NewToDoPage.java;/home/wafik/Testing/ToDoApp/ToDo/src/test/java/com/qacart/todo/pages/ToDoPage.java;/home/wafik/Testing/ToDoApp/ToDo/src/test/java/com/qacart/todo/testcases/LoginTest.java;/home/wafik/Testing/ToDoApp/ToDo/src/test/java/com/qacart/todo/testcases/ToDoTest.java;/home/wafik/Testing/ToDoApp/ToDo/pom.xml" />
+  </component>
+</project>
