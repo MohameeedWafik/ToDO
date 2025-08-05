@@ -23,6 +23,7 @@ public class LoginTest extends BaseTest {
         loginPage.login("mohamedwafik5445@gmail.com","123123123");
         boolean isWelcomeDisplayed= driver.findElement(By.cssSelector("[data-testid=\"welcome\"]")).isDisplayed();
         Assert.assertTrue(isWelcomeDisplayed);
+        //Test
 
 
 
