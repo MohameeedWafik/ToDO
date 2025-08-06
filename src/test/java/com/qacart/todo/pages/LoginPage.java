@@ -10,7 +10,7 @@ public class LoginPage extends BasePage {
     public LoginPage(WebDriver driver) {
         super(driver);
     }
-
+//
     @FindBy(css= "[data-testid=\"email\"]")
     private WebElement emailInput;
 
