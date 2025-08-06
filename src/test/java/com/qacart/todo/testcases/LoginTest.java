@@ -25,10 +25,5 @@ public class LoginTest extends BaseTest {
         Assert.assertTrue(isWelcomeDisplayed);
         //Test
 
-
-
-
-
-
     }
 }
