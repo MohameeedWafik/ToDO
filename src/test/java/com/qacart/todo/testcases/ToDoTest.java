@@ -15,8 +15,6 @@ import java.time.Duration;
 public class ToDoTest extends BaseTest {
     @Test
     public void addNewToDo (){
-
-
         LoginPage loginPage = new LoginPage(driver);
         loginPage.load();
         loginPage.login("mohamedwafik5445@gmail.com","123123123");
